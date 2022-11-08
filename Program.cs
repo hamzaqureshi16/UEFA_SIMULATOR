@@ -572,7 +572,7 @@ namespace UEFA_Simluator
              Console.Clear();
              
             GroupStage();
-            int[] hamza = { 0, 1, 1, 2, 4 };
+            
             
 
 
