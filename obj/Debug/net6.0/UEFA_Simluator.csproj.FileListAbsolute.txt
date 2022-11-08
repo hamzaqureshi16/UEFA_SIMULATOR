@@ -1,0 +1,15 @@
+C:\Users\Mhamz\source\repos\UEFA_Simluator\bin\Debug\net6.0\UEFA_Simluator.exe
+C:\Users\Mhamz\source\repos\UEFA_Simluator\bin\Debug\net6.0\UEFA_Simluator.deps.json
+C:\Users\Mhamz\source\repos\UEFA_Simluator\bin\Debug\net6.0\UEFA_Simluator.runtimeconfig.json
+C:\Users\Mhamz\source\repos\UEFA_Simluator\bin\Debug\net6.0\UEFA_Simluator.dll
+C:\Users\Mhamz\source\repos\UEFA_Simluator\bin\Debug\net6.0\UEFA_Simluator.pdb
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.csproj.AssemblyReference.cache
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.AssemblyInfoInputs.cache
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.AssemblyInfo.cs
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.csproj.CoreCompileInputs.cache
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.dll
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\refint\UEFA_Simluator.dll
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.pdb
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\UEFA_Simluator.genruntimeconfig.cache
+C:\Users\Mhamz\source\repos\UEFA_Simluator\obj\Debug\net6.0\ref\UEFA_Simluator.dll
